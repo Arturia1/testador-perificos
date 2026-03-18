@@ -1,7 +1,3 @@
-Para um perfil como o seu — Backend Developer & Security Specialist — o README precisa ser mais do que uma explicação; ele tem que ser uma vitrine de boas práticas, organização e domínio técnico.
-
-Aqui está uma estrutura de README.md de alto nível, pronta para o seu GitHub, focada na suíte completa:
-
 🚀 Hardware Test Center v1.0
 Uma suíte de diagnóstico técnica robusta desenvolvida para otimizar o fluxo de manutenção e inspeção de periféricos. O Hardware Test Center transforma testes manuais em laudos técnicos documentados, utilizando visão computacional e automação de documentos.
 
