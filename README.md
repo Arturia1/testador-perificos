@@ -1,16 +1,43 @@
-# React + Vite
+Para um perfil como o seu — Backend Developer & Security Specialist — o README precisa ser mais do que uma explicação; ele tem que ser uma vitrine de boas práticas, organização e domínio técnico.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aqui está uma estrutura de README.md de alto nível, pronta para o seu GitHub, focada na suíte completa:
 
-Currently, two official plugins are available:
+🚀 Hardware Test Center v1.0
+Uma suíte de diagnóstico técnica robusta desenvolvida para otimizar o fluxo de manutenção e inspeção de periféricos. O Hardware Test Center transforma testes manuais em laudos técnicos documentados, utilizando visão computacional e automação de documentos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠 Módulos Disponíveis
+⌨️ Keyboard Diagnostic
+Mapeamento ABNT2: Layouts específicos para Dell, HP, Lenovo e Positivo.
 
-## React Compiler
+Detecção de Ghosting: Monitoramento de múltiplas teclas simultâneas.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Laudo Visual: Representação gráfica das teclas com falha no documento final.
 
-## Expanding the ESLint configuration
+🖱 Mouse Diagnostic
+Precisão de Sensores: Testes de DPI, Cliques (Esquerdo, Direito, Middle) e Scroll.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Polling Rate: Verificação de taxa de resposta em tempo real.
+
+📷 Webcam AI Inspector
+Visão Computacional: Integração com BlazeFace (TensorFlow.js) para rastreio facial e verificação de integridade do sensor.
+
+Dados de Mídia: Resolução nativa, análise de FPS e captura de evidência fotográfica.
+
+🖥 Monitor Tester
+Dead Pixel Check: Ciclo de cores sólidas em modo fullscreen.
+
+Integridade Visual: Ferramenta para detecção de vazamento de luz e ghosting.
+
+📄 Geração de Laudos Técnicos
+O sistema automatiza a criação de relatórios oficiais para o setor de TI:
+
+Exportação: Suporte nativo para PDF e PNG.
+
+Protocolo: Inclui S/N do equipamento, nome do técnico, matrícula e parecer técnico automatizado com carimbo de aprovação/reprovação.
+
+🔒 Segurança e Contexto Local
+Como a aplicação lida com dispositivos de entrada e mídia (Webcam), ela foi projetada para rodar em contextos seguros:
+
+Suporte a SSL/HTTPS via Vite para acesso em rede local.
+
+Tratamento de políticas de segurança de origem para APIs de mídia.
